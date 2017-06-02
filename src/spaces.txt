@@ -1,0 +1,40 @@
+nl "Go"
+cp "Mediterranean Avenue" PURPLE 60 2 10 30 90 160 250
+cd "Community Chest" COMMUNITY_CHEST
+cp "Baltic Avenue" PURPLE 60 4 20 60 180 320 450
+sp "Income Tax" INCOME_TAX
+rr "Reading Railroad"
+cp "Oriental Avenue" LIGHT_BLUE 100 6 30 90 270 400 550
+cd "Chance" CHANCE
+cp "Vermont Avenue" LIGHT_BLUE 100 6 30 90 270 400 550
+cp "Connecticut Avenue" LIGHT_BLUE 120 8 40 100 300 450 600
+nl "Jail"
+cp "St. Charles Place" PINK 140 10 50 150 450 625 750
+ut "Electric Company"
+cp "States Avenue" PINK 140 10 50 150 450 625 750
+cp "Virginia Avenue" PINK 160 12 60 180 500 700 900
+rr "Pennsylvania Railroad"
+cp "St. James Place" ORANGE 180 14 70 200 550 750 950
+cd "Community Chest" COMMUNITY_CHEST
+cp "Tennessee Avenue" ORANGE 180 14 70 200 550 750 950
+cp "New York Avenue" ORANGE 200 16 80 220 600 800 1000
+nl "Free Parking"
+cp "Kentucky Avenue" RED 220 18 90 250 700 875 1050
+cd "Chance" CHANCE
+cp "Indiana Avenue" RED 220 18 90 250 700 875 1050
+cp "Illinois Avenue" RED 240 20 100 300 750 925 1100
+rr "B. & O. Railroad"
+cp "Atlantic Avenue" YELLOW 260 22 110 330 800 975 1150
+cp "Ventnor Avenue" YELLOW 260 22 110 330 800 975 1150
+ut "Water Works"
+cp "Marvin Gardens" YELLOW 280 24 120 360 850 1025 1200
+sp "Go To Jail" GO_TO_JAIL
+cp "Pacific Avenue" GREEN 300 26 130 390 900 1100 1275
+cp "North Carolina Avenue" GREEN 300 26 130 360 900 1100 1275
+cd "Community Chest" COMMUNITY_CHEST
+cp "Pennsylvania Avenue" GREEN 320 28 150 450 1000 1200 1400
+rr "Short Line"
+cd "Chance" CHANCE
+cp "Park Place" BLUE 350 35 178 500 1100 1300 1500
+sp "Luxury Tax" LUXURY_TAX
+cp "Boardwalk" BLUE 400 50 200 500 1400 1700 2000
